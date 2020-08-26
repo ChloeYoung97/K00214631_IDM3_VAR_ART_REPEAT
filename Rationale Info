@@ -1,0 +1,15 @@
+Rationale details:
+
+This assignment tests my ability to create an interactive Augmented Reality based experience using Unity3D and Vuforia.
+
+It is required to create an interactive solution using the Unity3D authoring environment. I must publish my work to a repository on Github. I will then package the application for Android mobile.
+It is requested that I create a simple AR demonstration utilising Unity3D and Vuforia.
+
+This project is a concept piece and it isn't expected to create a complicated AR experience. I also have free use of any copyright free 3rd party content.
+The theme given for this repeat assignment is based surrounding the "Covid-19" pandemic.
+
+Firstly I printed an AR marker in A4 format & saved this as a PDF file.
+I then created this project within Unity, using Vuforia to create the target image and to get a development key. This would also allow for me to download a database.
+This would also allow me to be more comfortable using Visual Studio, coding in C#.
+I would further understand builds by creating an APK file for my application.
+From doing this assignment I would also gain a better understanding of how to use GitHub and Gitbash command line.
