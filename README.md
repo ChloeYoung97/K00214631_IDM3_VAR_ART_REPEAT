@@ -69,3 +69,22 @@ The easiest way to install an APK file on your Android is to download the file u
 3. If your phone's web browser doesn't give you the option to option to open the file after downloading, then open the file explorer app you installed, and go to the Downloads folder on your device.
 4. Tap the **APK file**. Allow the app any required permissions it asks for. Then, at the bottom of the installer window, click **INSTALL**.
 5. You'll see a confirmation the app is installed. Now you'll see the app available in your list of installed apps.
+
+# **Concept Development**
+> Using YouTube, Facebook, Unity assets store, SketchFab as well as communicating with
+> other friends and collegues I gathered many different
+>  concepts for this AR experience in the early development stages.
+> This project is a concept piece __**ONLY**__. This AR experience isn't too
+> complicated, keeping this simple will allow more so for the developer
+> to  understand how an AR experience is developed with Unity using the Vuforia engine platform.
+> This is all 3rd party content used within this AR experience (excluding C# scripting).
+
+# **Acknologements**
+>*John Jennings* lecturer head over Virtual & Augmented Reality for IDM3.
+>Inspiration.
+> I would like to thank many wonderful YouTube channels for helping me lay down the foundations for my project
+> I would like to thank any collogues, family members etc who helped with my project in the early to late stage development that kept up motivation to complete this project.
+
+&nbsp;
+## **Licence**
+Copyright Johanna Chloe Young.
