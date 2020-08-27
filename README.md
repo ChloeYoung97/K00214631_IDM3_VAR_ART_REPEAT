@@ -34,4 +34,38 @@ https://www.youtube.com/watch?v=3l-gluYCmf4
 
 ### Installing an APK file
 
+#### *Preparing Your Android Device*
+Since your phone considers any application outside of Google Play as an "unknown app", you need to tell your phone to allow you to install unknown apps.
 
+*ENABLE INSTALLING "UNKNOWN APPS" ON ANDROID NOUGAT*
+1. Go into **Settings**.
+2. Tap **Security** (or **Lock Screen & Security**).
+3. Scroll down to the **Device Administration** section and enable **Unknown Sources**.
+
+*ENABLE INSTALLING "UNKNOWN APPS" ON ANDROID OREO*
+1. Go to **Settings**.
+2. Then **Apps & Notifications**.
+3. Select **Install Unknown Apps** (or **Install Other Apps**).
+
+***(You may need to find your mobile device type online if both of these solutions don't suffice).***
+
+#### *Install an Android File Manager*
+Now that you have configured your phone to let you install unknown apps, you'll also need a way to find that application file (APK file) on your phone so you can run it.
+
+Android phones typically come with a "File Manager" app that you can use. But if you don't have one, then open Google Play on your phone and search for "File Manager". You'll see lots of options available.
+
+Some of the best options include:
+- <ins>Cx File Explorer</ins>
+- <ins>EZ File Explorer</ins>
+- <ins>File Manager</ins>
+
+Install any of these file managers so you'll be able to locate the APK file after you've transferred it to your phone.
+
+#### *Easiest: Download the APK Installer From Your Android*
+The easiest way to install an APK file on your Android is to download the file using your Android Browser.
+
+1. I will be providing this said link within the resources section of this documentation. Click on the APK link. You may see a pop-up asking if you want to let your mobile download this "unknown file" with "This type of file can harm your device".
+2. Just click **OK** to continue.
+3. If your phone's web browser doesn't give you the option to option to open the file after downloading, then open the file explorer app you installed, and go to the Downloads folder on your device.
+4. Tap the **APK file**. Allow the app any required permissions it asks for. Then, at the bottom of the installer window, click **INSTALL**.
+5. You'll see a confirmation the app is installed. Now you'll see the app available in your list of installed apps.
